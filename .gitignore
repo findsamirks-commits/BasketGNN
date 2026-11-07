@@ -5,6 +5,7 @@ __pycache__/
 runs/
 *.pt
 *.bin
+!runs/basketgnn/best.pt
 .pytest_cache/
 .DS_Store
 data/raw/
