@@ -1,9 +1,12 @@
 # BasketGNN 🛒🧠
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://basketgnn.streamlit.app)
 [![GitHub](https://img.shields.io/badge/GitHub-findsamirks--commits-black?style=flat&logo=github)](https://github.com/findsamirks-commits/BasketGNN)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C?logo=pytorch)](https://pytorch.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+> 🌐 **Live Interactive Streamlit Demo:** [basketgnn.streamlit.app](https://basketgnn.streamlit.app)
 
 **Graph Neural Network for next-basket recommendation & basket-completion in quick-commerce.**
 
