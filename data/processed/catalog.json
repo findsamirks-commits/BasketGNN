@@ -1,0 +1,182 @@
+[
+  {
+    "id": 0,
+    "name": "Amul Taaza Fresh Toned Milk 1L",
+    "category": "Dairy",
+    "price": 54.0
+  },
+  {
+    "id": 1,
+    "name": "Britannia Daily Fresh White Bread 400g",
+    "category": "Bakery",
+    "price": 45.0
+  },
+  {
+    "id": 2,
+    "name": "Amul Pasteurised Butter 500g",
+    "category": "Dairy",
+    "price": 275.0
+  },
+  {
+    "id": 3,
+    "name": "Nestle Farm Fresh White Eggs 6pc",
+    "category": "Eggs & Meat",
+    "price": 55.0
+  },
+  {
+    "id": 4,
+    "name": "Mother Dairy Classic Dahi 400g",
+    "category": "Dairy",
+    "price": 35.0
+  },
+  {
+    "id": 5,
+    "name": "Amul Processed Cheese Slices 200g",
+    "category": "Dairy",
+    "price": 140.0
+  },
+  {
+    "id": 6,
+    "name": "Kissan Mixed Fruit Jam 500g",
+    "category": "Breakfast",
+    "price": 185.0
+  },
+  {
+    "id": 7,
+    "name": "Kellogg's Real Almond Honey Corn Flakes 500g",
+    "category": "Breakfast",
+    "price": 240.0
+  },
+  {
+    "id": 8,
+    "name": "Tata Tea Gold Leaf Tea 500g",
+    "category": "Beverages",
+    "price": 320.0
+  },
+  {
+    "id": 9,
+    "name": "Nescafe Classic Instant Coffee 50g",
+    "category": "Beverages",
+    "price": 170.0
+  },
+  {
+    "id": 10,
+    "name": "Fresh Hybrid Tomato 1kg",
+    "category": "Produce",
+    "price": 40.0
+  },
+  {
+    "id": 11,
+    "name": "Fresh Robusta Banana 500g",
+    "category": "Produce",
+    "price": 35.0
+  },
+  {
+    "id": 12,
+    "name": "Fresh Shimla Apple 4pc",
+    "category": "Produce",
+    "price": 120.0
+  },
+  {
+    "id": 13,
+    "name": "Fresh Red Onion 1kg",
+    "category": "Produce",
+    "price": 38.0
+  },
+  {
+    "id": 14,
+    "name": "Fresh Potato (Dum Aloo) 1kg",
+    "category": "Produce",
+    "price": 28.0
+  },
+  {
+    "id": 15,
+    "name": "Fresh Coriander Bunch 100g",
+    "category": "Produce",
+    "price": 15.0
+  },
+  {
+    "id": 16,
+    "name": "Fresh Green Chilli 100g",
+    "category": "Produce",
+    "price": 12.0
+  },
+  {
+    "id": 17,
+    "name": "Fresh Lemon 4pc",
+    "category": "Produce",
+    "price": 20.0
+  },
+  {
+    "id": 18,
+    "name": "Aashirvaad Shudh Chakki Atta 5kg",
+    "category": "Staples",
+    "price": 235.0
+  },
+  {
+    "id": 19,
+    "name": "Fortune Sunlite Refined Sunflower Oil 1L",
+    "category": "Staples",
+    "price": 135.0
+  },
+  {
+    "id": 20,
+    "name": "Tata Salt Vacuum Evaporated 1kg",
+    "category": "Staples",
+    "price": 28.0
+  },
+  {
+    "id": 21,
+    "name": "Maggi 2-Minute Masala Noodles 280g",
+    "category": "Snacks",
+    "price": 56.0
+  },
+  {
+    "id": 22,
+    "name": "Lay's Classic Salted Potato Chips 50g",
+    "category": "Snacks",
+    "price": 20.0
+  },
+  {
+    "id": 23,
+    "name": "Britannia Good Day Cashew Cookies 200g",
+    "category": "Snacks",
+    "price": 45.0
+  },
+  {
+    "id": 24,
+    "name": "Haldiram's Bhujia Sev 400g",
+    "category": "Snacks",
+    "price": 115.0
+  },
+  {
+    "id": 25,
+    "name": "Vim Lemon Dishwash Gel 500ml",
+    "category": "Household",
+    "price": 125.0
+  },
+  {
+    "id": 26,
+    "name": "Surf Excel Matic Front Load Liquid 1L",
+    "category": "Household",
+    "price": 230.0
+  },
+  {
+    "id": 27,
+    "name": "Harpic Power Plus Toilet Cleaner 500ml",
+    "category": "Household",
+    "price": 105.0
+  },
+  {
+    "id": 28,
+    "name": "Dettol Liquid Handwash Refill 750ml",
+    "category": "Personal Care",
+    "price": 119.0
+  },
+  {
+    "id": 29,
+    "name": "Colgate Strong Teeth Toothpaste 200g",
+    "category": "Personal Care",
+    "price": 110.0
+  }
+]

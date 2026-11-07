@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+runs/
+*.pt
+*.bin
+.pytest_cache/
+.DS_Store
+data/raw/
+data/processed/*.pkl

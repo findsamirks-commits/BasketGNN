@@ -1,0 +1,39 @@
+# BasketGNN Model and Training Configuration
+
+model:
+  embedding_dim: 64
+  num_layers: 3             # Number of LightGCN graph propagation hops
+  basket_alpha: 0.45        # Weight given to current basket context vs user profile
+  layer_weights: null       # Default is uniform 1 / (K + 1)
+  edge_dropout: 0.1         # Edge dropout during training for regularization
+
+training:
+  epochs: 20
+  batch_size: 1024
+  learning_rate: 0.001
+  weight_decay: 0.0001      # BPR L2 regularization lambda
+  early_stopping_patience: 5
+  seed: 42
+  eval_frequency: 1
+
+data:
+  train_ratio: 0.70
+  val_ratio: 0.15
+  test_ratio: 0.15
+  min_user_orders: 3
+  min_item_interactions: 5
+  processed_dir: "data/processed"
+
+evaluation:
+  top_k_list: [5, 10, 20]
+  target_metrics:
+    recall_at_10: 0.12
+    ndcg_at_10: 0.08
+    hit_rate_at_10: 0.45
+    map_at_10: 0.06
+
+crosssell_bridge:
+  fefo_boost_weight: 0.35   # Score boost for Fresh-Grade SELL_FIRST produce
+  oos_penalty: -100.0       # Hard penalty mask for Shelf-Vision OOS items
+  enable_oos_filtering: true
+  enable_fefo_boosting: true
